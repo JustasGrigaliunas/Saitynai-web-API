@@ -1,0 +1,14 @@
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\bin\Debug\netcoreapp2.2\WebAPISaitynai.deps.json
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\bin\Debug\netcoreapp2.2\WebAPISaitynai.runtimeconfig.json
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\bin\Debug\netcoreapp2.2\WebAPISaitynai.runtimeconfig.dev.json
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\bin\Debug\netcoreapp2.2\WebAPISaitynai.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.csprojAssemblyReference.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.RazorAssemblyInfo.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.RazorAssemblyInfo.cs
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.AssemblyInfoInputs.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.AssemblyInfo.cs
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\bin\Debug\netcoreapp2.2\WebAPISaitynai.pdb
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\WebAPISaitynai\WebAPISaitynai\obj\Debug\netcoreapp2.2\WebAPISaitynai.pdb

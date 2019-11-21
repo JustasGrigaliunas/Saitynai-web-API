@@ -1,0 +1,46 @@
+api/users/authenticate POST
+api/users GET
+{
+	"username": "test",
+	"password": "test"
+}
+	
+api/ClientItems 
+api/ClientItems/1
+
+{
+    "description":"UAB 1st Klientas",
+    "companycode":"166355265321",
+    "country":"Lithuania",
+    "city":"Kaunas",
+    "address":"Studentu g. 50",
+    "phonenumber":"868686866",
+    "isvatpayer":true
+}
+
+api/InvoiceItems
+api/ClientItem/1/InvoiceItems
+api/ClientItem/1/InvoiceItems/1
+{
+    "clientId":1,
+    "invoicenumber":"166355265321",
+    "netprice":100.00,
+    "grossprice":121.00,
+    "vatamount":21.00,
+    "vat":21,
+    "ispayed":false
+}
+
+api/GoodsItems
+api/ClientItems/1/InvoiceItems/1/GoodsItems
+api/ClientItems/1/InvoiceItems/1/GoodsItems/1
+{
+	"description":"pirmas itemas",
+    "invoiceitemId":1,
+    "amount":2,
+    "netprice":10.00,
+    "grossprice":12.10,
+    "vatamount":2.10,
+    "vat":21,
+    "ispayed":false
+}
